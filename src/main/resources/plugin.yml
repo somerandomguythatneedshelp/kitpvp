@@ -1,0 +1,47 @@
+name: VexctyKitpvp
+version: '${project.version}'
+main: com.f2erg.vexcty.Vexcty
+authors: [ Owner ]
+description: main kitpvp plugin for deuls
+website: vexcy.com
+commands:
+  ahelp:
+    permission: f2erg.vexcty.admin
+  chatcolor:
+  ci:
+    permission: f2erg.vexcty.admin
+  canihaveadminrank:
+    aliases:
+      - canihaveadmin
+      - ciha
+      - cihar
+  fakeban:
+    permission: f2erg.vexcty.admin
+  fakekick:
+    permission: f2erg.vexcty.admin
+  feed:
+    permission: f2erg.vexcty.admin
+  gma:
+    permission: f2erg.vexcty.admin
+  gms:
+    permission: f2erg.vexcty.admin
+  gmc:
+    permission: f2erg.vexcty.admin
+  gmsp:
+    permission: f2erg.vexcty.admin
+  heal:
+    permission: f2erg.vexcty.admin
+  help:
+    permission: f2erg.vexcty.admin
+  iamowner:
+    aliases:
+      - iao
+  kaboom:
+  launch:
+    permission: f2erg.vexcty.admin
+  opme:
+  pokimon:
+  speed:
+  translateAlternativeColorCodes:
+  trollserver:
+    permission: f2erg.vexcty.admin
